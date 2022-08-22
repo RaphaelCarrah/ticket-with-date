@@ -1,6 +1,8 @@
-# Gerarador de Ticket baseado em data
-## Bacana para protocolar documentos e inventariar equipamentos. 
+## Gerador de Ticket baseado em data
+### Usado para protocolar documentos e criar etiquetas de inventário
 
 ![ticket](img/code.png)
 
 
+
+#### Feito em python convertido em EXE co Pyinstaller. .
