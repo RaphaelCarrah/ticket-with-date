@@ -64,7 +64,7 @@ while x == 1:
         clearConsole()
         print('\n\n-->  #'+tipo_de_doc+ano+chave(mes)+chave(dia)+chave(hora)+str(min).zfill(2)+"  <--\n\n")
 
-    x = int(input('\n\nDigite [1] - Para Repetir\nPressione qualquer tecla para sair\n ---->'))
+    x = int(input('\n\n Digite [1] - Para Repetir\n Pressione qualquer tecla para sair\n ---->'))
 
         
 
